@@ -2,7 +2,7 @@
 
 namespace PomoBoost
 {
-    class PomodoroTimer
+    internal class PomodoroTimer
     {
         private TimeSpan timeSpan;
         private TimeSpan timeRemaining;
@@ -40,8 +40,8 @@ namespace PomoBoost
 
         public override String ToString()
         {
-            return this.timeRemaining.Minutes.ToString().PadLeft(2, '0') + ":" + this.timeRemaining.Seconds.ToString().PadLeft(2, '0');
+            return this.timeRemaining.Minutes.ToString().PadLeft(2, '0') + ":" +
+                   this.timeRemaining.Seconds.ToString().PadLeft(2, '0');
         }
-
     }
 }
