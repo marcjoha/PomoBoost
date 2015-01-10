@@ -7,10 +7,10 @@ This small utility sits in your Windows 7/8 task bar, and notifies you when the 
 
 Main window:
 
-![PomoBoost main window](https://dl.dropbox.com/u/5690634/Hosted%20files/PomoBoost/mainwindow.png)
+![PomoBoost main window](https://raw.githubusercontent.com/marcjoha/PomoBoost/screenshots/mainwindow.png)
 
 Taskbar:
 
-![PomoBoost taskbar](https://dl.dropbox.com/u/5690634/Hosted%20files/PomoBoost/taskbar.png)
+![PomoBoost taskbar](https://raw.githubusercontent.com/marcjoha/PomoBoost/screenshots/taskbar.png)
 
 
